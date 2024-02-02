@@ -1,1 +1,1 @@
-[Skill Issue](./skill-issue.gif)
+![Skill Issue](./skill-issue.gif)
