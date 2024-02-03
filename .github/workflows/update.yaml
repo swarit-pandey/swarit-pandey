@@ -26,8 +26,6 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
           git diff
           git commit -am "Update README with random meme" || echo "No changes to commit"
           git push
